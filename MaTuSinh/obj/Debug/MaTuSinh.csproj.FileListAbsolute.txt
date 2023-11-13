@@ -1,0 +1,11 @@
+E:\C#Winform\MaTuSinh\MaTuSinh\bin\Debug\MaTuSinh.exe.config
+E:\C#Winform\MaTuSinh\MaTuSinh\bin\Debug\MaTuSinh.exe
+E:\C#Winform\MaTuSinh\MaTuSinh\bin\Debug\MaTuSinh.pdb
+E:\C#Winform\MaTuSinh\MaTuSinh\obj\Debug\MaTuSinh.csproj.AssemblyReference.cache
+E:\C#Winform\MaTuSinh\MaTuSinh\obj\Debug\MaTuSinh.csproj.SuggestedBindingRedirects.cache
+E:\C#Winform\MaTuSinh\MaTuSinh\obj\Debug\MaTuSinh.Form1.resources
+E:\C#Winform\MaTuSinh\MaTuSinh\obj\Debug\MaTuSinh.Properties.Resources.resources
+E:\C#Winform\MaTuSinh\MaTuSinh\obj\Debug\MaTuSinh.csproj.GenerateResource.cache
+E:\C#Winform\MaTuSinh\MaTuSinh\obj\Debug\MaTuSinh.csproj.CoreCompileInputs.cache
+E:\C#Winform\MaTuSinh\MaTuSinh\obj\Debug\MaTuSinh.exe
+E:\C#Winform\MaTuSinh\MaTuSinh\obj\Debug\MaTuSinh.pdb
